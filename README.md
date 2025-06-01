@@ -1,5 +1,4 @@
 # Marble Madness
-
 <table>
   <tr>
     <td>
@@ -12,7 +11,9 @@
   </tr>
 </table>
 
+
 <!-- TABLE OF CONTENTS -->
+<a name="top"></a>
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -26,8 +27,8 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#installation-with-cl">Installation with macOS on the command line</a></li>
-        <li><a href="#installation-with-xcode">Installation with macOS on Xcode</a></li>
+        <li><a href="#installation-with-macos-on-the-command-line">Installation with macOS on the Command Line</a></li>
+        <li><a href="#installation-with-macos-on-xcode">Installation with macOS on Xcode</a></li>
       </ul>
     </li>
   </ol>
@@ -47,13 +48,15 @@
 * various crystals, unique to each level
 * and many more...
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 ### Controls
 * Control your avatar using the arrow keys or WASD keys
 * Deploy peas on attack using the space bar key
 * Restart each level using the escape key
 * Quit the game entirely using the Q key
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -64,6 +67,9 @@ To get a local copy up and running follow these simple example steps.
 1. Install [XQuartx](http://xquartz.org/) and follow the installation instructions.
    * It may help to log out and log back in after installation.
 2. Download and unzip the [zip file](https://github.com/1004yeeun/marble-madness/archive/refs/heads/main.zip).
+
+### Note
+You may have to alter the directory for your Assets folder, accordingly depending on where you place your file, in the main.cpp file.
 
 ### Installation with macOS on the Command Line
 3. Change directories to the MarbleMadness folder, which should contain all 21 source files for this game as well as the MarbleMadness executable.
@@ -79,9 +85,10 @@ make
 ./MarbleMadness
 ```
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 ### Installation with macOS on Xcode
 
 3. To directly view and run the code, open, build, and run the Xcode project in the unzipped file.
 
-### Note
-You may have to alter the directory for your Assets folder, accordingly depending on where you place your file, in the main.cpp file.
+<p align="right">(<a href="#top">back to top</a>)</p>
