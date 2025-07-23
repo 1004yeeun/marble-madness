@@ -7,18 +7,18 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li>
-      <a href="#star-about-the-project-star">⭐ About The Project ⭐</a>
+    <li>⭐
+      <a href="#star-about-the-project-star">About The Project</a>
       <ul>
-        <li><a href="#game-features-robot">Game Features 🤖</a></li>
-        <li><a href="#controls-video_game">Controls 🎮</a></li>
+        <li><a href="#game-features-robot">Game Features</a> 🤖</li>
+        <li><a href="#controls-video_game">Controls</a> 🎮</li>
       </ul>
     </li>
-    <li>
-      <a href="#star-getting-started-star">⭐ Getting Started ⭐</a>
+    <li>⭐
+      <a href="#star-getting-started-star">Getting Started</a>
       <ul>
-        <li><a href="#installation-with-macos-on-the-command-line-computer">Installation with macOS on the Command Line 💻</a></li>
-        <li><a href="#installation-with-macos-on-xcode-no_good_woman">Installation with macOS on Xcode 🙅‍♀️</a></li>
+        <li><a href="#installation-with-macos-on-the-command-line-computer">Installation with macOS on the Command Line</a> 💻</li>
+        <li><a href="#installation-with-macos-on-xcode-no_good_woman">Installation with macOS on Xcode</a> 🙅‍♀️</li>
       </ul>
     </li>
   </ol>
