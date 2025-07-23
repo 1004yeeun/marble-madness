@@ -21,14 +21,14 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="https://github.com/1004yeeun/marble-madness#%EF%B8%8F-about-the-project-%EF%B8%8F">About The Project</a>
+      <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#game-features-">Game Features</a></li>
         <li><a href="#controls-">Controls</a></li>
       </ul>
     </li>
     <li>
-      <a href="#-getting-started-">Getting Started</a>
+      <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#installation-with-macos-on-the-command-line-">Installation with macOS on the Command Line</a></li>
         <li><a href="#installation-with-macos-on-xcode-">Installation with macOS on Xcode</a></li>
@@ -72,6 +72,7 @@ To get a local copy up and running follow these simple example steps.
 
 <br></br>
 
+
 ### Installation with macOS on the Command Line 💻
 3. Change directories to the MarbleMadness folder, which should contain all 21 source files for this game as well as the MarbleMadness executable.
 ```sh
@@ -85,8 +86,8 @@ make
 ```sh
 ./MarbleMadness
 ```
-
 <p align="right">(<a href="#top">back to top</a>)</p>
+
 
 ### Installation with macOS on Xcode 🙅‍♀️
 
