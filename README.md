@@ -38,9 +38,9 @@
 </details>
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## ⭐️ About The Project ⭐️
 
-### Game Features
+### Game Features 👾
 * 1 player avatar
 * 3 power-ups (extra life heart, extra health medkit, and extra ammo)
 * 3 enemies (ragebots, thiefbots, and mean thiefbots)
@@ -50,7 +50,7 @@
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-### Controls
+### Controls 🎮
 * Control your avatar using the arrow keys or WASD keys
 * Deploy peas on attack using the space bar key
 * Restart each level using the escape key
@@ -59,19 +59,20 @@
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
-## Getting Started
+## ⭐️ Getting Started ⭐️
 
-This is an example of how you may give instructions on setting up your project locally. 
+This is an example of how you may set up your project locally. 
 To get a local copy up and running follow these simple example steps.
 
 1. Install [XQuartx](http://xquartz.org/) and follow the installation instructions.
    * It may help to log out and log back in after installation.
 2. Download and unzip the [zip file](https://github.com/1004yeeun/marble-madness/archive/refs/heads/main.zip).
 
-### Note
-You may have to alter the directory for your Assets folder, accordingly depending on where you place your file, in the main.cpp file.
+<b> ✏️ Note: </b> You may have to alter the directory for your Assets folder, accordingly depending on where you place your file, in the main.cpp file.
 
-### Installation with macOS on the Command Line
+<br></br>
+
+### Installation with macOS on the Command Line 💻
 3. Change directories to the MarbleMadness folder, which should contain all 21 source files for this game as well as the MarbleMadness executable.
 ```sh
 cd /your/path/to/marble-madness-unzipped/MarbleMadness
@@ -87,7 +88,7 @@ make
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-### Installation with macOS on Xcode
+### Installation with macOS on Xcode 🙅‍♀️
 
 3. To directly view and run the code, open, build, and run the Xcode project in the unzipped file.
 
