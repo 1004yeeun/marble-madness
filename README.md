@@ -2,19 +2,6 @@
 <img width="300" alt="Screenshot 2025-05-29 at 10 41 46 AM" 
   src="https://github.com/user-attachments/assets/b1329ca9-219c-4f1a-80c9-d91240b2d1f8" />
 
-<table>
-  <tr>
-    <td>
-      Marble Madness is a 2-dimensional maze-based video game where you battle enemies and 
-      collect power-ups along your journey in guarding crystals to the finish line within 
-      the shortest amount of time. This C++ game implements inheritance, polymorphism, and 
-      memory management to optimize performance and enhance system architecture with 
-      object-oriented programming.
-    </td>
-  </tr>
-</table>
-
-
 <!-- TABLE OF CONTENTS -->
 <a name="top"></a>
 <details>
@@ -36,6 +23,20 @@
     </li>
   </ol>
 </details>
+
+<table>
+  <tr>
+    <td>
+      Marble Madness is a 2-dimensional maze-based video game where you battle enemies and 
+      collect power-ups along your journey in guarding crystals to the finish line within 
+      the shortest amount of time. This C++ game implements inheritance, polymorphism, and 
+      memory management to optimize performance and enhance system architecture with 
+      object-oriented programming.
+    </td>
+  </tr>
+</table>
+
+<br></br>
 
 <!-- ABOUT THE PROJECT -->
 ## :star: About The Project :star:
