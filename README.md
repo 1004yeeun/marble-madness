@@ -21,26 +21,26 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#star-about-the-project-star">About The Project</a>
       <ul>
-        <li><a href="#game-features-">Game Features</a></li>
-        <li><a href="#controls-">Controls</a></li>
+        <li><a href="#game-features-robot">Game Features</a></li>
+        <li><a href="#controls-video_game">Controls</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#star-getting-started-star">Getting Started</a>
       <ul>
-        <li><a href="#installation-with-macos-on-the-command-line-">Installation with macOS on the Command Line</a></li>
-        <li><a href="#installation-with-macos-on-xcode-">Installation with macOS on Xcode</a></li>
+        <li><a href="#installation-with-macos-on-the-command-line-computer">Installation with macOS on the Command Line</a></li>
+        <li><a href="#installation-with-macos-on-xcode-no_good_woman">Installation with macOS on Xcode</a></li>
       </ul>
     </li>
   </ol>
 </details>
 
 <!-- ABOUT THE PROJECT -->
-## ⭐️ About The Project ⭐️
+## :star: About The Project :star:
 
-### Game Features 👾
+### Game Features :robot:
 * 1 player avatar
 * 3 power-ups (extra life heart, extra health medkit, and extra ammo)
 * 3 enemies (ragebots, thiefbots, and mean thiefbots)
@@ -50,7 +50,7 @@
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-### Controls 🎮
+### Controls :video_game:
 * Control your avatar using the arrow keys or WASD keys
 * Deploy peas on attack using the space bar key
 * Restart each level using the escape key
@@ -59,7 +59,7 @@
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
-## ⭐️ Getting Started ⭐️
+## :star: Getting Started :star:
 
 This is an example of how you may set up your project locally. 
 To get a local copy up and running follow these simple example steps.
@@ -68,12 +68,12 @@ To get a local copy up and running follow these simple example steps.
    * It may help to log out and log back in after installation.
 2. Download and unzip the [zip file](https://github.com/1004yeeun/marble-madness/archive/refs/heads/main.zip).
 
-<b> ✏️ Note: </b> You may have to alter the directory for your Assets folder, accordingly depending on where you place your file, in the main.cpp file.
+<b> :pencil2: Note: </b> You may have to alter the directory for your Assets folder, accordingly depending on where you place your file, in the main.cpp file.
 
 <br></br>
 
 
-### Installation with macOS on the Command Line 💻
+### Installation with macOS on the Command Line :computer:
 3. Change directories to the MarbleMadness folder, which should contain all 21 source files for this game as well as the MarbleMadness executable.
 ```sh
 cd /your/path/to/marble-madness-unzipped/MarbleMadness
@@ -89,7 +89,7 @@ make
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-### Installation with macOS on Xcode 🙅‍♀️
+### Installation with macOS on Xcode :no_good_woman:
 
 3. To directly view and run the code, open, build, and run the Xcode project in the unzipped file.
 
