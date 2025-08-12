@@ -1,5 +1,5 @@
 # Marble Madness
-<img width="300" alt="Screenshot 2025-05-29 at 10 41 46 AM" 
+<img width="300" alt="Marble Madness Lvl. 3" 
   src="https://github.com/user-attachments/assets/b1329ca9-219c-4f1a-80c9-d91240b2d1f8" />
 
 <!-- TABLE OF CONTENTS -->
